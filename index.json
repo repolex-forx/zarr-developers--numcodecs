@@ -1,0 +1,11 @@
+{
+  "org": "zarr-developers",
+  "repo": "numcodecs",
+  "versions": [
+    {
+      "commit": "1f83681cf310ac9aac8041ed6ff4a5dcc42a7aad",
+      "tag": "",
+      "parsed_at": "2026-10-17T03:15:25.229104+00:00"
+    }
+  ]
+}
