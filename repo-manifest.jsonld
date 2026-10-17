@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/zarr-developers/numcodecs/commit/1f83681cf310ac9aac8041ed6ff4a5dcc42a7aad",
       "git:hexsha": "1f83681cf310ac9aac8041ed6ff4a5dcc42a7aad",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/zarr-developers/numcodecs/commit/6b970b69f0957178c9699156d2738ac9b7272c9d",
